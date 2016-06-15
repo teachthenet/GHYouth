@@ -35,7 +35,7 @@ Now click Join Server!
 
 ![](http://teachthe.net/topclipbox/2016-03-03_14-27-3797QL8G.png)
 
-Now open lesson1.py in your code editor and follow the comments in there to get started!
+Now open Example-1.py in your code editor and review it. When ready, run it in your command prompt / shell to ensure everything is installed properly (and view the result in minecraft).
 
 
 ##### Troubleshooting

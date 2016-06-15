@@ -17,7 +17,7 @@ z = pos.z
 # Note that we are defining it in relationship to the x/y/z (bottom right front) of our building
 # That is to say, the top back left's x value is the bottom right front's x value + 10.
 x2 = x + 10
-y2 = y + 10
+y2 = y + 5
 z2 = z + 8
 
 cobblestone_block_id = 4 
@@ -26,11 +26,10 @@ mc.setBlocks(x, y, z, x2, y2, z2, cobblestone_block_id)
 #http://minecraft-ids.grahamedgecombe.com/
 
 #How do we make it twice as high? Change y2 value.
-y2 = y + 20
-mc.setBlocks(x, y, z, x2, y2, z2, cobblestone_block_id)
+mc.setBlocks(x, y, z, x2, y2+5, z2, cobblestone_block_id)
 
 #Change block ID above to something else
-mc.setBlocks(x, y, z, x2, y2, z2, 48) #mossy cobblestone block ID
+mc.setBlocks(x, y, z, x2, y2, z2, 89) #glowstone block ID
 
 #Observe still solid. How to make hollow? Any ideas? (Pull back up ID list)
 
@@ -77,9 +76,11 @@ while True:
 
 #The challenge is that you must do it in survival mode. This is to encourage you to use code to build things.
 
-#You may want to build a few utility tools first, such as a way to get an aerial view. Consider taking your current position, and creating a block 50 units above you, then using the setPos function to teleport your player on top of that block to look down (for example).
+#You may want to build a few utility tools first, such as a way to get an aerial view. Consider taking your current position, and creating a block 50 units above you, then using the setPos function to teleport your player on top of that block to look down (for example). Also consider how to defend yourself at night - perhaps you need some offensive or defensive code to protect yourself against the zombies (or sleep the night away, or accept death and just re-teleport yourself to your building location).
 
 #You may also want to record the x/y/z coordinates of the place you are building things at, so if you die you can teleport yourself back there easily.
+
+#Respect each other, and don't grief.
 
 """
 Show moving clock

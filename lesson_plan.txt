@@ -1,0 +1,29 @@
+Build a rectangle building of cobblestone.
+Change it to be of mossy cobblestone.
+
+Get player location. Set Player Location.
+
+Make it appear relative to user's position rather than at spawn.
+
+Make building hollow.
+
+Add opening with air to building.
+
+Making building full of water, remove roof.
+
+Swap back to air, and build a wooden roof pyramid thing.
+
+Build an entire pyramid.
+
+Make it dynamic instead of copy-pasted.
+
+Build a roller coaster by having it follow behind you.
+
+Show moving clock
+
+Show star wars
+
+Have link to block IDs and functions available (as well as moving clock + star wars examples)
+
+
+(where in here to explain variables, if statements, loops, difference between just running commands)

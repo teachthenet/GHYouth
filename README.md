@@ -1,41 +1,23 @@
-## TeachCraft 
+## TeachCraft - Building Challenge for Globalhack Mini-hackathon
 
-A series of lessons used to teach middle school and high school kids the fundamentals of programming!
+A mini-hackathon challenge for students to build something awesome with code in minecraft!
 
-Using Python, each of the lessons will teach the kids new concepts, going through while loops, if statements, for loops,  algorithms, function calls, and the like.
-
-The entire process is collaborative - students are able to see each other's progress as they are all in the same multiplayer server together. Indeed, one of the later lessons constructs a magical system the students can use to battle each other, invoking spells they prepared in code!
-
-All that is needed to get started is downloading the code in this repo and installing java on your system (full instructions in the [setup guide](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/setup.md)).
-
-I have a server up and running with the python api open - all the lessons default to pointing to my server's IP. If you'd like privacy, or if my server is down due to being DOS'ed (easily achievable through it's open python api), you may want to [setup your own server](https://github.com/teachthenet/TeachCraft-Server). If you note my server is down, feel free to open an issue here to inform me to restart it.
-
-My Minecraft server is located at
+The shared multi-player server is located here:
 ```
 199.96.85.3:25570
 ```
 
-### Lessons & Setup
+You can also setup your own server (if your computer has the resources) following the optional instructions below.
 
-[Initial Setup](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/setup.md): Get minecraft running, get connected to the server.
+### Setup
 
-[Lesson 1](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_1.md): Teleport your character to a point you define in code.
+[Setup Client](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/setup.md): Get minecraft running, get connected to the server.
 
-[Lesson 2](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_2.md): Make a path of something (flowers, lava, fire) follow behind you while you walk. 
+[Optional - setup your own server](https://github.com/teachthenet/TeachCraft-Server): If you don't want to use our shared multiplayer server, you can setup your own following these instructions.
 
-[Lesson 3](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_3.md): Give your character the ability to walk on water (by turning water below your character into ice).
+### Other neat, complex examples
 
-[Lesson 4](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_4.md): Create a building
-
-[Lesson 5](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_5.md): Create a pyramid
-
-[Lesson 6](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_6.md): Use an algorithm to construct the pyramid by analyzing the pattern you discovered in lesson 5!
-
-[Lesson 7](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_7.md): Create a magic system that listens to Minecraft chat, and executes your pre-defined spells!
-
-### Examples / Additional Follow-up
-
-[Import Image](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/example-import-image/script.py): Learn how to import an image into minecraft pixel art using Python Imaging Library.
+[Import Images](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/example-import-image/script.py): Learn how to import an image into minecraft pixel art using Python Imaging Library.
 
 [Import 3D Model](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/example-import-3d-image/script.py): Learn how to import a 3d model (such as those used with 3d printers) into Minecraft!
 
@@ -46,9 +28,6 @@ My Minecraft server is located at
 [Star Wars Animated](https://github.com/martinohanlon/minecraft-starwars)
 
 [Auto-bridge](http://www.stuffaboutcode.com/2013/02/raspberry-pi-minecraft-auto-bridge.html) [Link 2](https://github.com/martinohanlon/minecraft-bridge)
-
-### Want to host your own server / run a server locally?
-- You want to switch to [this repo](https://github.com/teachthenet/TeachCraft-Server)
 
 ### Minecraft Docs
 - [pi version](http://www.stuffaboutcode.com/p/minecraft-api-reference.html) Has most of the basics of the python api

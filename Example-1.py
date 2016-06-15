@@ -32,5 +32,5 @@ mc.setBlocks(x, y2, z, x2, y2, z2, air_block_id)
 
 #And let's add a roof. It will be three layers of wood, in a pyramid shape.
 mc.setBlocks(x, y2, z, x2, y2, z2, 5) #5 = wood
-mc.setBlocks(x-1, y2+1, z, x2-1, y2+1, z2, 5) #5 = wood
-mc.setBlocks(x-2, y2+2, z, x2-2, y2+2, z2, 5) #5 = wood
+mc.setBlocks(x+1, y2+1, z, x2-1, y2+1, z2, 5) #5 = wood
+mc.setBlocks(x+2, y2+2, z, x2-2, y2+2, z2, 5) #5 = wood

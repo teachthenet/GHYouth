@@ -1,4 +1,4 @@
-## TeachCraft - Building Challenge for Globalhack Mini-hackathon
+## TeachCraft - Globalhack Youth Mini-hackathon
 
 A mini-hackathon challenge for students to build something awesome with code in minecraft!
 

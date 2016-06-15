@@ -1,6 +1,6 @@
 ## TeachCraft - Globalhack Youth Mini-hackathon
 
-A mini-hackathon challenge for students to build something awesome with code in minecraft!
+A mini-hackathon challenge for students to build something awesome with code in minecraft! The code we went over is located in [script.py](https://github.com/teachthenet/TeachCraft-Globalhack-Youth/blob/master/script.py) and you can use that to get started.
 
 The shared multi-player server is located here:
 ```
@@ -11,7 +11,7 @@ You can also setup your own server (if your computer has the resources) followin
 
 ### Setup
 
-[Setup Client](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/setup.md): Get minecraft running, get connected to the server.
+[Setup Client](https://github.com/teachthenet/TeachCraft-Globalhack-Youth/blob/master/setup.md): Get minecraft running, get connected to the server.
 
 [Optional - setup your own server](https://github.com/teachthenet/TeachCraft-Server): If you don't want to use our shared multiplayer server, you can setup your own following these instructions.
 

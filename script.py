@@ -80,14 +80,8 @@ while True:
 
 #You may also want to record the x/y/z coordinates of the place you are building things at, so if you die you can teleport yourself back there easily.
 
+#Here are the main two links you need to stay on top of
+#minecraft functions available: http://www.stuffaboutcode.com/p/minecraft-api-reference.html
+#minecraft block ids: http://minecraft-ids.grahamedgecombe.com/
+
 #Respect each other, and don't grief.
-
-"""
-Show moving clock
-
-Show star wars
-
-Have link to block IDs and functions available (as well as moving clock + star wars examples)
-
-(where in here to explain variables, if statements, loops, difference between just running commands)
-"""

@@ -18,6 +18,7 @@ You can also setup your own server (if your computer has the resources) followin
 ### What to build? Consider one of the following options
 
 - Any building/village/city/artistic piece that would have taken forever to build by hand, but is achievable via programming!
+- A maze (with traps?) built programmatically and always random?
 - Import images (pixel art) into minecraft - consider using the [library Pillow](https://pypi.python.org/pypi/Pillow).
 - Instead of printing to a 3d printer, print to your minecraft world!
 - Build a mini-game! [Example: Lavatrap](http://www.stuffaboutcode.com/2015/09/minecraft-game-tutorial-lavatrap-pycon.html) 
